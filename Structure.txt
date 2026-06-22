@@ -1,0 +1,19 @@
+News-Classification/
+│
+├── dataset/
+│   └── train.csv
+│
+├── model/
+│
+├── static/
+│   └── style.css
+│
+├── templates/
+│   └── index.html
+│
+├── preprocess.py
+├── train_model.py
+├── app.py
+├── requirements.txt
+│
+└── accuracy.png
